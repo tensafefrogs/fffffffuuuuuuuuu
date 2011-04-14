@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+
+<script type="text/javascript">
+
+  function getJSON() {
+    $.getJSON('output.txt', onJSONGot);
+  }
+
+  function onJSONGot(data) {
+    var tableStart = "<table>";
+    var tableEnd = "</table>";
+    var rowStart = "<tr>";
+    var rowEnd = "</tr>";
+
+    output = tableStart;
+    var currentRow = 0;
+    var lastRow = 0;
+    for (var i = 0; i < data.length; i++) {
+      currentRow = data[i].f;
+      newRow = currentRow != lastRow;
+      if (newRow) {
+        if (currentRow > 1) {
+          output += rowEnd;
+        }
+        output += rowStart;
+      }
+      styles = "color: rgb("+ Math.round((data[i].percent / 100) * 255)  +", 0, 0)";
+      output += '<td style="'+ styles +'">' + data[i].count + "</td>";
+      lastRow = currentRow;
+    }
+
+    output += tableEnd;
+    $('#chart').append(output);
+  }
+
+  $(document).ready(function() {
+    getJSON();
+  });
+
+
+ 
+</script>
+<style type="text/css">
+
+  body {
+    font-family: arial;
+  }
+
+  #chart table {
+    width: 600px;
+    height: 600px;
+    border: solid 1px gray;
+  }
+
+  #chart td {
+    text-align: center;
+    border: 1px solid gray;
+  }
+
+</style>
+</head>
+<body>
+   <div id="chart">
+   <!-- data goes here if you have js enabled! -->
+   </div>
+</body>
+</html>
