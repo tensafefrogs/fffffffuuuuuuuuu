@@ -1,31 +1,33 @@
 #!/usr/bin/python
 
-import urllib2
 import json
+import urllib2
 
-f_count = 3;
-u_count = 3;
+f_count = 30;
+u_count = 18;
 f = 'f'
 u = 'u'
 
 url_template = 'http://ajax.googleapis.com/ajax/services/search/web?v=1.0&q=%s'
 
-full_result =[] 
+full_result =[]
 
+# Loop over every combination of ffff's and uuuu's based on the above settings
 for x in range(1, f_count + 1):
   for y in range(1, u_count + 1):
     query = (f * x) + (u * y)
-    url = url_template % query 
+    url = url_template % query
 
     req = urllib2.Request(url)
+    # You should obviously change this. I don't think it matters what url it is,
+    # but you should probably use your own site.
+    # Without this, the google API will not accept many requests.
     req.add_header('Referer', 'http://blog.deconcept.com/')
     data = urllib2.urlopen(req)
-    print 'requesting url %s' % url
-
+    #print 'requesting url %s' % url
     result = data.read()
-
     parsed_result = json.loads(result)
-    print parsed_result['responseData']['cursor']['estimatedResultCount']
+    #print parsed_result['responseData']['cursor']['estimatedResultCount']
 
     full_result.append({
       'query': query,
@@ -37,24 +39,20 @@ for x in range(1, f_count + 1):
 # After we get all the results, go through and set a % value,
 # where 100% is the max count, and 0% is the lowest count.
 max_value = 0.0
-min_value = full_result[0]['count']
 
+# First, find the max value of the set
 for x in range(len(full_result)):
   current_count = full_result[x]['count']
   if max_value < current_count:
     max_value = float(current_count)
-  if min_value > current_count:
-    min_value = current_count
 
-print 'max value is %s' % max_value
-print 'min value is %s' % min_value
-
+# Set the % value in each item (for display purposes)
 for x in range(len(full_result)):
   current_item = full_result[x]
   print current_item['count']
   current_item['percent'] = int((current_item['count'] / max_value) * 100.0)
 
-
+# Spit out the data in json format so jquery/javascript can read it
 print json.dumps(full_result, sort_keys=True, indent=4)
 
 

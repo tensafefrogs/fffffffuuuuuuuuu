@@ -1,4 +1,4 @@
-A quick and diry fun project to see what the most common combination of "ffffffuuuuuu" is on the internet.
+A quick and dirty fun project to see what the most common combination of "ffffffuuuuuu" is on the internet.
 
 The python script uses the Google json search API (note that the result counts it returns are a bit different from the web UI), then use the html page to display the data.
 
