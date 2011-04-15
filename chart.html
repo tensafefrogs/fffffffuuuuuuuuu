@@ -18,17 +18,33 @@
     output = tableStart;
     var currentRow = 0;
     var lastRow = 0;
+    var preRowOutput = '';
+    var rowOutput = '';
     for (var i = 0; i < data.length; i++) {
       currentRow = data[i].f;
       newRow = currentRow != lastRow;
       if (newRow) {
+        // Kind of a hacky thing to get the first row of lables without knowing how many cols there are
+        if (currentRow == 2) {
+          preRowOutput += rowStart + "<td>()</td>";
+        }
+        output += preRowOutput;
+        if (currentRow == 2) {
+          output += rowEnd;
+        }
+        output += rowOutput;
+        preRowOutput = '';
+        rowOutput = '';
         if (currentRow > 1) {
           output += rowEnd;
         }
-        output += rowStart;
+        output += rowStart +"<td>"+ currentRow  +"</td>";
+      }
+      if (currentRow == 1) {
+        preRowOutput += "<td>"+ i  +"</td>";
       }
       styles = "color: rgb("+ Math.round((data[i].percent / 100) * 255)  +", 0, 0)";
-      output += '<td style="'+ styles +'">' + data[i].count + "</td>";
+      rowOutput += '<td style="'+ styles +'">' + data[i].count + "</td>";
       lastRow = currentRow;
     }
 
