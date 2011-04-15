@@ -27,11 +27,19 @@ for x in range(1, f_count + 1):
     #print 'requesting url %s' % url
     result = data.read()
     parsed_result = json.loads(result)
-    #print parsed_result['responseData']['cursor']['estimatedResultCount']
+
+    try:
+      est_count = parsed_result['responseData']['cursor']['estimatedResultCount']
+    except KeyError:
+      # Sometimes the API response is not complete,
+      # so just set to 0 since it's probably 0 anyway
+      est_count = 0
+
+    #print est_count
 
     full_result.append({
       'query': query,
-      'count': int(parsed_result['responseData']['cursor']['estimatedResultCount']),
+      'count': int(est_count),
       'f': x,
       'u': y
     })
@@ -49,7 +57,7 @@ for x in range(len(full_result)):
 # Set the % value in each item (for display purposes)
 for x in range(len(full_result)):
   current_item = full_result[x]
-  print current_item['count']
+  #print current_item['count']
   current_item['percent'] = int((current_item['count'] / max_value) * 100.0)
 
 # Spit out the data in json format so jquery/javascript can read it

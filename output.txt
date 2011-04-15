@@ -1,69 +1,69 @@
 [
     {
-        "count": 17200000, 
+        "count": 304, 
         "f": 1, 
-        "percent": 9, 
+        "percent": 0, 
         "query": "fu", 
         "u": 1
     }, 
     {
-        "count": 412000, 
+        "count": 223, 
         "f": 1, 
         "percent": 0, 
         "query": "fuu", 
         "u": 2
     }, 
     {
-        "count": 83900, 
+        "count": 164, 
         "f": 1, 
         "percent": 0, 
         "query": "fuuu", 
         "u": 3
     }, 
     {
-        "count": 54000, 
+        "count": 168, 
         "f": 1, 
         "percent": 0, 
         "query": "fuuuu", 
         "u": 4
     }, 
     {
-        "count": 56100, 
+        "count": 55900, 
         "f": 1, 
-        "percent": 0, 
+        "percent": 13, 
         "query": "fuuuuu", 
         "u": 5
     }, 
     {
-        "count": 41900, 
+        "count": 42300, 
         "f": 1, 
-        "percent": 0, 
+        "percent": 9, 
         "query": "fuuuuuu", 
         "u": 6
     }, 
     {
-        "count": 12800, 
+        "count": 156, 
         "f": 1, 
         "percent": 0, 
         "query": "fuuuuuuu", 
         "u": 7
     }, 
     {
-        "count": 20400, 
+        "count": 20300, 
         "f": 1, 
-        "percent": 0, 
+        "percent": 4, 
         "query": "fuuuuuuuu", 
         "u": 8
     }, 
     {
         "count": 15100, 
         "f": 1, 
-        "percent": 0, 
+        "percent": 3, 
         "query": "fuuuuuuuuu", 
         "u": 9
     }, 
     {
-        "count": 9300, 
+        "count": 97, 
         "f": 1, 
         "percent": 0, 
         "query": "fuuuuuuuuuu", 
@@ -72,131 +72,117 @@
     {
         "count": 10500, 
         "f": 1, 
-        "percent": 0, 
+        "percent": 2, 
         "query": "fuuuuuuuuuuu", 
         "u": 11
     }, 
     {
-        "count": 9300, 
+        "count": 112, 
         "f": 1, 
         "percent": 0, 
         "query": "fuuuuuuuuuuuu", 
         "u": 12
     }, 
     {
-        "count": 6580, 
+        "count": 89, 
         "f": 1, 
         "percent": 0, 
         "query": "fuuuuuuuuuuuuu", 
         "u": 13
     }, 
     {
-        "count": 3410, 
+        "count": 82, 
         "f": 1, 
         "percent": 0, 
         "query": "fuuuuuuuuuuuuuu", 
         "u": 14
     }, 
     {
-        "count": 1920, 
+        "count": 93, 
         "f": 1, 
         "percent": 0, 
         "query": "fuuuuuuuuuuuuuuu", 
         "u": 15
     }, 
     {
-        "count": 2910, 
+        "count": 78, 
         "f": 1, 
         "percent": 0, 
         "query": "fuuuuuuuuuuuuuuuu", 
         "u": 16
     }, 
     {
-        "count": 455, 
+        "count": 90, 
         "f": 1, 
         "percent": 0, 
         "query": "fuuuuuuuuuuuuuuuuu", 
         "u": 17
     }, 
     {
-        "count": 1450, 
+        "count": 107, 
         "f": 1, 
         "percent": 0, 
         "query": "fuuuuuuuuuuuuuuuuuu", 
         "u": 18
     }, 
     {
-        "count": 1930, 
-        "f": 1, 
-        "percent": 0, 
-        "query": "fuuuuuuuuuuuuuuuuuuu", 
-        "u": 19
-    }, 
-    {
-        "count": 4740, 
-        "f": 1, 
-        "percent": 0, 
-        "query": "fuuuuuuuuuuuuuuuuuuuu", 
-        "u": 20
-    }, 
-    {
-        "count": 72600, 
+        "count": 208, 
         "f": 2, 
         "percent": 0, 
         "query": "ffu", 
         "u": 1
     }, 
     {
-        "count": 5860, 
+        "count": 83, 
         "f": 2, 
         "percent": 0, 
         "query": "ffuu", 
         "u": 2
     }, 
     {
-        "count": 7850, 
+        "count": 94, 
         "f": 2, 
         "percent": 0, 
         "query": "ffuuu", 
         "u": 3
     }, 
     {
-        "count": 1440, 
+        "count": 86, 
         "f": 2, 
         "percent": 0, 
         "query": "ffuuuu", 
         "u": 4
     }, 
     {
-        "count": 79000, 
+        "count": 182, 
         "f": 2, 
         "percent": 0, 
         "query": "ffuuuuu", 
         "u": 5
     }, 
     {
-        "count": 5360, 
+        "count": 89, 
         "f": 2, 
         "percent": 0, 
         "query": "ffuuuuuu", 
         "u": 6
     }, 
     {
-        "count": 201000, 
+        "count": 202000, 
         "f": 2, 
-        "percent": 0, 
+        "percent": 47, 
         "query": "ffuuuuuuu", 
         "u": 7
     }, 
     {
         "count": 11700, 
         "f": 2, 
-        "percent": 0, 
+        "percent": 2, 
         "query": "ffuuuuuuuu", 
         "u": 8
     }, 
     {
-        "count": 562, 
+        "count": 575, 
         "f": 2, 
         "percent": 0, 
         "query": "ffuuuuuuuuu", 
@@ -210,35 +196,35 @@
         "u": 10
     }, 
     {
-        "count": 120, 
+        "count": 122, 
         "f": 2, 
         "percent": 0, 
         "query": "ffuuuuuuuuuuu", 
         "u": 11
     }, 
     {
-        "count": 200, 
+        "count": 201, 
         "f": 2, 
         "percent": 0, 
         "query": "ffuuuuuuuuuuuu", 
         "u": 12
     }, 
     {
-        "count": 208, 
+        "count": 197, 
         "f": 2, 
         "percent": 0, 
         "query": "ffuuuuuuuuuuuuu", 
         "u": 13
     }, 
     {
-        "count": 80, 
+        "count": 82, 
         "f": 2, 
         "percent": 0, 
         "query": "ffuuuuuuuuuuuuuu", 
         "u": 14
     }, 
     {
-        "count": 96, 
+        "count": 97, 
         "f": 2, 
         "percent": 0, 
         "query": "ffuuuuuuuuuuuuuuu", 
@@ -266,20 +252,6 @@
         "u": 18
     }, 
     {
-        "count": 69, 
-        "f": 2, 
-        "percent": 0, 
-        "query": "ffuuuuuuuuuuuuuuuuuuu", 
-        "u": 19
-    }, 
-    {
-        "count": 36, 
-        "f": 2, 
-        "percent": 0, 
-        "query": "ffuuuuuuuuuuuuuuuuuuuu", 
-        "u": 20
-    }, 
-    {
         "count": 4210, 
         "f": 3, 
         "percent": 0, 
@@ -287,30 +259,30 @@
         "u": 1
     }, 
     {
-        "count": 949, 
+        "count": 71, 
         "f": 3, 
         "percent": 0, 
         "query": "fffuu", 
         "u": 2
     }, 
     {
-        "count": 139000, 
+        "count": 140000, 
         "f": 3, 
-        "percent": 0, 
+        "percent": 32, 
         "query": "fffuuu", 
         "u": 3
     }, 
     {
         "count": 11700, 
         "f": 3, 
-        "percent": 0, 
+        "percent": 2, 
         "query": "fffuuuu", 
         "u": 4
     }, 
     {
-        "count": 6880, 
+        "count": 6850, 
         "f": 3, 
-        "percent": 0, 
+        "percent": 1, 
         "query": "fffuuuuu", 
         "u": 5
     }, 
@@ -322,21 +294,21 @@
         "u": 6
     }, 
     {
-        "count": 5870, 
+        "count": 106, 
         "f": 3, 
         "percent": 0, 
         "query": "fffuuuuuuu", 
         "u": 7
     }, 
     {
-        "count": 6370, 
+        "count": 123, 
         "f": 3, 
         "percent": 0, 
         "query": "fffuuuuuuuu", 
         "u": 8
     }, 
     {
-        "count": 729, 
+        "count": 724, 
         "f": 3, 
         "percent": 0, 
         "query": "fffuuuuuuuuu", 
@@ -345,47 +317,47 @@
     {
         "count": 12400, 
         "f": 3, 
-        "percent": 0, 
+        "percent": 2, 
         "query": "fffuuuuuuuuuu", 
         "u": 10
     }, 
     {
-        "count": 374, 
+        "count": 378, 
         "f": 3, 
         "percent": 0, 
         "query": "fffuuuuuuuuuuu", 
         "u": 11
     }, 
     {
-        "count": 282, 
+        "count": 283, 
         "f": 3, 
         "percent": 0, 
         "query": "fffuuuuuuuuuuuu", 
         "u": 12
     }, 
     {
-        "count": 222, 
+        "count": 221, 
         "f": 3, 
         "percent": 0, 
         "query": "fffuuuuuuuuuuuuu", 
         "u": 13
     }, 
     {
-        "count": 167, 
+        "count": 168, 
         "f": 3, 
         "percent": 0, 
         "query": "fffuuuuuuuuuuuuuu", 
         "u": 14
     }, 
     {
-        "count": 146, 
+        "count": 145, 
         "f": 3, 
         "percent": 0, 
         "query": "fffuuuuuuuuuuuuuuu", 
         "u": 15
     }, 
     {
-        "count": 236, 
+        "count": 239, 
         "f": 3, 
         "percent": 0, 
         "query": "fffuuuuuuuuuuuuuuuu", 
@@ -406,70 +378,56 @@
         "u": 18
     }, 
     {
-        "count": 103, 
-        "f": 3, 
-        "percent": 0, 
-        "query": "fffuuuuuuuuuuuuuuuuuuu", 
-        "u": 19
-    }, 
-    {
-        "count": 64, 
-        "f": 3, 
-        "percent": 0, 
-        "query": "fffuuuuuuuuuuuuuuuuuuuu", 
-        "u": 20
-    }, 
-    {
-        "count": 858, 
+        "count": 867, 
         "f": 4, 
         "percent": 0, 
         "query": "ffffu", 
         "u": 1
     }, 
     {
-        "count": 1320, 
+        "count": 1340, 
         "f": 4, 
         "percent": 0, 
         "query": "ffffuu", 
         "u": 2
     }, 
     {
-        "count": 4430, 
+        "count": 4440, 
         "f": 4, 
-        "percent": 0, 
+        "percent": 1, 
         "query": "ffffuuu", 
         "u": 3
     }, 
     {
-        "count": 21100, 
+        "count": 21200, 
         "f": 4, 
-        "percent": 0, 
+        "percent": 4, 
         "query": "ffffuuuu", 
         "u": 4
     }, 
     {
-        "count": 6290, 
+        "count": 6330, 
         "f": 4, 
-        "percent": 0, 
+        "percent": 1, 
         "query": "ffffuuuuu", 
         "u": 5
     }, 
     {
-        "count": 5840, 
+        "count": 5800, 
         "f": 4, 
-        "percent": 0, 
+        "percent": 1, 
         "query": "ffffuuuuuu", 
         "u": 6
     }, 
     {
-        "count": 1460, 
+        "count": 60, 
         "f": 4, 
         "percent": 0, 
         "query": "ffffuuuuuuu", 
         "u": 7
     }, 
     {
-        "count": 1440, 
+        "count": 67, 
         "f": 4, 
         "percent": 0, 
         "query": "ffffuuuuuuuu", 
@@ -483,119 +441,105 @@
         "u": 9
     }, 
     {
-        "count": 21100, 
+        "count": 21200, 
         "f": 4, 
-        "percent": 0, 
+        "percent": 4, 
         "query": "ffffuuuuuuuuuu", 
         "u": 10
     }, 
     {
-        "count": 974, 
+        "count": 981, 
         "f": 4, 
         "percent": 0, 
         "query": "ffffuuuuuuuuuuu", 
         "u": 11
     }, 
     {
-        "count": 908, 
+        "count": 906, 
         "f": 4, 
         "percent": 0, 
         "query": "ffffuuuuuuuuuuuu", 
         "u": 12
     }, 
     {
-        "count": 355, 
+        "count": 353, 
         "f": 4, 
         "percent": 0, 
         "query": "ffffuuuuuuuuuuuuu", 
         "u": 13
     }, 
     {
-        "count": 367, 
+        "count": 364, 
         "f": 4, 
         "percent": 0, 
         "query": "ffffuuuuuuuuuuuuuu", 
         "u": 14
     }, 
     {
-        "count": 143, 
+        "count": 144, 
         "f": 4, 
         "percent": 0, 
         "query": "ffffuuuuuuuuuuuuuuu", 
         "u": 15
     }, 
     {
-        "count": 140, 
+        "count": 141, 
         "f": 4, 
         "percent": 0, 
         "query": "ffffuuuuuuuuuuuuuuuu", 
         "u": 16
     }, 
     {
-        "count": 151, 
+        "count": 152, 
         "f": 4, 
         "percent": 0, 
         "query": "ffffuuuuuuuuuuuuuuuuu", 
         "u": 17
     }, 
     {
-        "count": 80, 
+        "count": 82, 
         "f": 4, 
         "percent": 0, 
         "query": "ffffuuuuuuuuuuuuuuuuuu", 
         "u": 18
     }, 
     {
-        "count": 189, 
-        "f": 4, 
-        "percent": 0, 
-        "query": "ffffuuuuuuuuuuuuuuuuuuu", 
-        "u": 19
-    }, 
-    {
-        "count": 59, 
-        "f": 4, 
-        "percent": 0, 
-        "query": "ffffuuuuuuuuuuuuuuuuuuuu", 
-        "u": 20
-    }, 
-    {
-        "count": 1560, 
+        "count": 1570, 
         "f": 5, 
         "percent": 0, 
         "query": "fffffu", 
         "u": 1
     }, 
     {
-        "count": 807, 
+        "count": 806, 
         "f": 5, 
         "percent": 0, 
         "query": "fffffuu", 
         "u": 2
     }, 
     {
-        "count": 909, 
+        "count": 912, 
         "f": 5, 
         "percent": 0, 
         "query": "fffffuuu", 
         "u": 3
     }, 
     {
-        "count": 2870, 
+        "count": 2860, 
         "f": 5, 
         "percent": 0, 
         "query": "fffffuuuu", 
         "u": 4
     }, 
     {
-        "count": 9750, 
+        "count": 9770, 
         "f": 5, 
-        "percent": 0, 
+        "percent": 2, 
         "query": "fffffuuuuu", 
         "u": 5
     }, 
     {
-        "count": 3490, 
+        "count": 3500, 
         "f": 5, 
         "percent": 0, 
         "query": "fffffuuuuuu", 
@@ -609,7 +553,7 @@
         "u": 7
     }, 
     {
-        "count": 2190, 
+        "count": 79, 
         "f": 5, 
         "percent": 0, 
         "query": "fffffuuuuuuuu", 
@@ -623,56 +567,56 @@
         "u": 9
     }, 
     {
-        "count": 791, 
+        "count": 793, 
         "f": 5, 
         "percent": 0, 
         "query": "fffffuuuuuuuuuu", 
         "u": 10
     }, 
     {
-        "count": 745, 
+        "count": 738, 
         "f": 5, 
         "percent": 0, 
         "query": "fffffuuuuuuuuuuu", 
         "u": 11
     }, 
     {
-        "count": 1120, 
+        "count": 1140, 
         "f": 5, 
         "percent": 0, 
         "query": "fffffuuuuuuuuuuuu", 
         "u": 12
     }, 
     {
-        "count": 487, 
+        "count": 488, 
         "f": 5, 
         "percent": 0, 
         "query": "fffffuuuuuuuuuuuuu", 
         "u": 13
     }, 
     {
-        "count": 414, 
+        "count": 431, 
         "f": 5, 
         "percent": 0, 
         "query": "fffffuuuuuuuuuuuuuu", 
         "u": 14
     }, 
     {
-        "count": 336, 
+        "count": 327, 
         "f": 5, 
         "percent": 0, 
         "query": "fffffuuuuuuuuuuuuuuu", 
         "u": 15
     }, 
     {
-        "count": 165, 
+        "count": 166, 
         "f": 5, 
         "percent": 0, 
         "query": "fffffuuuuuuuuuuuuuuuu", 
         "u": 16
     }, 
     {
-        "count": 118, 
+        "count": 123, 
         "f": 5, 
         "percent": 0, 
         "query": "fffffuuuuuuuuuuuuuuuuu", 
@@ -686,525 +630,469 @@
         "u": 18
     }, 
     {
-        "count": 113, 
-        "f": 5, 
-        "percent": 0, 
-        "query": "fffffuuuuuuuuuuuuuuuuuuu", 
-        "u": 19
-    }, 
-    {
-        "count": 64, 
-        "f": 5, 
-        "percent": 0, 
-        "query": "fffffuuuuuuuuuuuuuuuuuuuu", 
-        "u": 20
-    }, 
-    {
-        "count": 5880, 
+        "count": 5950, 
         "f": 6, 
-        "percent": 0, 
+        "percent": 1, 
         "query": "ffffffu", 
         "u": 1
     }, 
     {
-        "count": 1260, 
+        "count": 1310, 
         "f": 6, 
         "percent": 0, 
         "query": "ffffffuu", 
         "u": 2
     }, 
     {
-        "count": 718, 
+        "count": 728, 
         "f": 6, 
         "percent": 0, 
         "query": "ffffffuuu", 
         "u": 3
     }, 
     {
-        "count": 989, 
+        "count": 94, 
         "f": 6, 
         "percent": 0, 
         "query": "ffffffuuuu", 
         "u": 4
     }, 
     {
-        "count": 6420, 
+        "count": 6470, 
         "f": 6, 
-        "percent": 0, 
+        "percent": 1, 
         "query": "ffffffuuuuu", 
         "u": 5
     }, 
     {
-        "count": 2610, 
+        "count": 2630, 
         "f": 6, 
         "percent": 0, 
         "query": "ffffffuuuuuu", 
         "u": 6
     }, 
     {
-        "count": 2070, 
+        "count": 2140, 
         "f": 6, 
         "percent": 0, 
         "query": "ffffffuuuuuuu", 
         "u": 7
     }, 
     {
-        "count": 959, 
+        "count": 79, 
         "f": 6, 
         "percent": 0, 
         "query": "ffffffuuuuuuuu", 
         "u": 8
     }, 
     {
-        "count": 4870, 
+        "count": 89, 
         "f": 6, 
         "percent": 0, 
         "query": "ffffffuuuuuuuuu", 
         "u": 9
     }, 
     {
-        "count": 2420, 
+        "count": 81, 
         "f": 6, 
         "percent": 0, 
         "query": "ffffffuuuuuuuuuu", 
         "u": 10
     }, 
     {
-        "count": 597, 
+        "count": 592, 
         "f": 6, 
         "percent": 0, 
         "query": "ffffffuuuuuuuuuuu", 
         "u": 11
     }, 
     {
-        "count": 562, 
+        "count": 563, 
         "f": 6, 
         "percent": 0, 
         "query": "ffffffuuuuuuuuuuuu", 
         "u": 12
     }, 
     {
-        "count": 288, 
+        "count": 291, 
         "f": 6, 
         "percent": 0, 
         "query": "ffffffuuuuuuuuuuuuu", 
         "u": 13
     }, 
     {
-        "count": 278, 
+        "count": 276, 
         "f": 6, 
         "percent": 0, 
         "query": "ffffffuuuuuuuuuuuuuu", 
         "u": 14
     }, 
     {
-        "count": 236, 
+        "count": 234, 
         "f": 6, 
         "percent": 0, 
         "query": "ffffffuuuuuuuuuuuuuuu", 
         "u": 15
     }, 
     {
-        "count": 196, 
+        "count": 198, 
         "f": 6, 
         "percent": 0, 
         "query": "ffffffuuuuuuuuuuuuuuuu", 
         "u": 16
     }, 
     {
-        "count": 91, 
+        "count": 92, 
         "f": 6, 
         "percent": 0, 
         "query": "ffffffuuuuuuuuuuuuuuuuu", 
         "u": 17
     }, 
     {
-        "count": 113, 
+        "count": 115, 
         "f": 6, 
         "percent": 0, 
         "query": "ffffffuuuuuuuuuuuuuuuuuu", 
         "u": 18
     }, 
     {
-        "count": 120, 
-        "f": 6, 
-        "percent": 0, 
-        "query": "ffffffuuuuuuuuuuuuuuuuuuu", 
-        "u": 19
-    }, 
-    {
-        "count": 92, 
-        "f": 6, 
-        "percent": 0, 
-        "query": "ffffffuuuuuuuuuuuuuuuuuuuu", 
-        "u": 20
-    }, 
-    {
-        "count": 1560, 
+        "count": 1610, 
         "f": 7, 
         "percent": 0, 
         "query": "fffffffu", 
         "u": 1
     }, 
     {
-        "count": 626, 
+        "count": 618, 
         "f": 7, 
         "percent": 0, 
         "query": "fffffffuu", 
         "u": 2
     }, 
     {
-        "count": 160, 
+        "count": 159, 
         "f": 7, 
         "percent": 0, 
         "query": "fffffffuuu", 
         "u": 3
     }, 
     {
-        "count": 587, 
+        "count": 586, 
         "f": 7, 
         "percent": 0, 
         "query": "fffffffuuuu", 
         "u": 4
     }, 
     {
-        "count": 966, 
+        "count": 113, 
         "f": 7, 
         "percent": 0, 
         "query": "fffffffuuuuu", 
         "u": 5
     }, 
     {
-        "count": 5870, 
+        "count": 106, 
         "f": 7, 
         "percent": 0, 
         "query": "fffffffuuuuuu", 
         "u": 6
     }, 
     {
-        "count": 3260, 
+        "count": 3270, 
         "f": 7, 
         "percent": 0, 
         "query": "fffffffuuuuuuu", 
         "u": 7
     }, 
     {
-        "count": 953, 
+        "count": 116, 
         "f": 7, 
         "percent": 0, 
         "query": "fffffffuuuuuuuu", 
         "u": 8
     }, 
     {
-        "count": 179000000, 
+        "count": 69, 
         "f": 7, 
-        "percent": 100, 
+        "percent": 0, 
         "query": "fffffffuuuuuuuuu", 
         "u": 9
     }, 
     {
-        "count": 6770, 
+        "count": 86, 
         "f": 7, 
         "percent": 0, 
         "query": "fffffffuuuuuuuuuu", 
         "u": 10
     }, 
     {
-        "count": 1710, 
+        "count": 63, 
         "f": 7, 
         "percent": 0, 
         "query": "fffffffuuuuuuuuuuu", 
         "u": 11
     }, 
     {
-        "count": 178000, 
+        "count": 156, 
         "f": 7, 
         "percent": 0, 
         "query": "fffffffuuuuuuuuuuuu", 
         "u": 12
     }, 
     {
-        "count": 489, 
+        "count": 62, 
         "f": 7, 
         "percent": 0, 
         "query": "fffffffuuuuuuuuuuuuu", 
         "u": 13
     }, 
     {
-        "count": 454, 
+        "count": 451, 
         "f": 7, 
         "percent": 0, 
         "query": "fffffffuuuuuuuuuuuuuu", 
         "u": 14
     }, 
     {
-        "count": 161, 
+        "count": 166, 
         "f": 7, 
         "percent": 0, 
         "query": "fffffffuuuuuuuuuuuuuuu", 
         "u": 15
     }, 
     {
-        "count": 193, 
+        "count": 192, 
         "f": 7, 
         "percent": 0, 
         "query": "fffffffuuuuuuuuuuuuuuuu", 
         "u": 16
     }, 
     {
-        "count": 120, 
+        "count": 121, 
         "f": 7, 
         "percent": 0, 
         "query": "fffffffuuuuuuuuuuuuuuuuu", 
         "u": 17
     }, 
     {
-        "count": 200, 
+        "count": 192, 
         "f": 7, 
         "percent": 0, 
         "query": "fffffffuuuuuuuuuuuuuuuuuu", 
         "u": 18
     }, 
     {
-        "count": 100, 
-        "f": 7, 
-        "percent": 0, 
-        "query": "fffffffuuuuuuuuuuuuuuuuuuu", 
-        "u": 19
-    }, 
-    {
-        "count": 68, 
-        "f": 7, 
-        "percent": 0, 
-        "query": "fffffffuuuuuuuuuuuuuuuuuuuu", 
-        "u": 20
-    }, 
-    {
-        "count": 885, 
+        "count": 867, 
         "f": 8, 
         "percent": 0, 
         "query": "ffffffffu", 
         "u": 1
     }, 
     {
-        "count": 777, 
+        "count": 776, 
         "f": 8, 
         "percent": 0, 
         "query": "ffffffffuu", 
         "u": 2
     }, 
     {
-        "count": 108, 
+        "count": 111, 
         "f": 8, 
         "percent": 0, 
         "query": "ffffffffuuu", 
         "u": 3
     }, 
     {
-        "count": 151, 
+        "count": 150, 
         "f": 8, 
         "percent": 0, 
         "query": "ffffffffuuuu", 
         "u": 4
     }, 
     {
-        "count": 827, 
+        "count": 822, 
         "f": 8, 
         "percent": 0, 
         "query": "ffffffffuuuuu", 
         "u": 5
     }, 
     {
-        "count": 1950, 
+        "count": 1240, 
         "f": 8, 
         "percent": 0, 
         "query": "ffffffffuuuuuu", 
         "u": 6
     }, 
     {
-        "count": 1450, 
+        "count": 1100, 
         "f": 8, 
         "percent": 0, 
         "query": "ffffffffuuuuuuu", 
         "u": 7
     }, 
     {
-        "count": 955, 
+        "count": 84, 
         "f": 8, 
         "percent": 0, 
         "query": "ffffffffuuuuuuuu", 
         "u": 8
     }, 
     {
-        "count": 1030, 
+        "count": 30, 
         "f": 8, 
         "percent": 0, 
         "query": "ffffffffuuuuuuuuu", 
         "u": 9
     }, 
     {
-        "count": 757, 
+        "count": 755, 
         "f": 8, 
         "percent": 0, 
         "query": "ffffffffuuuuuuuuuu", 
         "u": 10
     }, 
     {
-        "count": 521, 
+        "count": 519, 
         "f": 8, 
         "percent": 0, 
         "query": "ffffffffuuuuuuuuuuu", 
         "u": 11
     }, 
     {
-        "count": 480, 
+        "count": 37, 
         "f": 8, 
         "percent": 0, 
         "query": "ffffffffuuuuuuuuuuuu", 
         "u": 12
     }, 
     {
-        "count": 360, 
+        "count": 361, 
         "f": 8, 
         "percent": 0, 
         "query": "ffffffffuuuuuuuuuuuuu", 
         "u": 13
     }, 
     {
-        "count": 296, 
+        "count": 299, 
         "f": 8, 
         "percent": 0, 
         "query": "ffffffffuuuuuuuuuuuuuu", 
         "u": 14
     }, 
     {
-        "count": 189, 
+        "count": 191, 
         "f": 8, 
         "percent": 0, 
         "query": "ffffffffuuuuuuuuuuuuuuu", 
         "u": 15
     }, 
     {
-        "count": 159, 
+        "count": 161, 
         "f": 8, 
         "percent": 0, 
         "query": "ffffffffuuuuuuuuuuuuuuuu", 
         "u": 16
     }, 
     {
-        "count": 117, 
+        "count": 116, 
         "f": 8, 
         "percent": 0, 
         "query": "ffffffffuuuuuuuuuuuuuuuuu", 
         "u": 17
     }, 
     {
-        "count": 112, 
+        "count": 111, 
         "f": 8, 
         "percent": 0, 
         "query": "ffffffffuuuuuuuuuuuuuuuuuu", 
         "u": 18
     }, 
     {
-        "count": 114, 
-        "f": 8, 
-        "percent": 0, 
-        "query": "ffffffffuuuuuuuuuuuuuuuuuuu", 
-        "u": 19
-    }, 
-    {
-        "count": 108, 
-        "f": 8, 
-        "percent": 0, 
-        "query": "ffffffffuuuuuuuuuuuuuuuuuuuu", 
-        "u": 20
-    }, 
-    {
-        "count": 530, 
+        "count": 524, 
         "f": 9, 
         "percent": 0, 
         "query": "fffffffffu", 
         "u": 1
     }, 
     {
-        "count": 121, 
+        "count": 122, 
         "f": 9, 
         "percent": 0, 
         "query": "fffffffffuu", 
         "u": 2
     }, 
     {
-        "count": 73, 
+        "count": 72, 
         "f": 9, 
         "percent": 0, 
         "query": "fffffffffuuu", 
         "u": 3
     }, 
     {
-        "count": 167, 
+        "count": 163, 
         "f": 9, 
         "percent": 0, 
         "query": "fffffffffuuuu", 
         "u": 4
     }, 
     {
-        "count": 531, 
+        "count": 527, 
         "f": 9, 
         "percent": 0, 
         "query": "fffffffffuuuuu", 
         "u": 5
     }, 
     {
-        "count": 242, 
+        "count": 243, 
         "f": 9, 
         "percent": 0, 
         "query": "fffffffffuuuuuu", 
         "u": 6
     }, 
     {
-        "count": 540, 
+        "count": 543, 
         "f": 9, 
         "percent": 0, 
         "query": "fffffffffuuuuuuu", 
         "u": 7
     }, 
     {
-        "count": 959, 
+        "count": 83, 
         "f": 9, 
         "percent": 0, 
         "query": "fffffffffuuuuuuuu", 
         "u": 8
     }, 
     {
-        "count": 147000000, 
+        "count": 43, 
         "f": 9, 
-        "percent": 82, 
+        "percent": 0, 
         "query": "fffffffffuuuuuuuuu", 
         "u": 9
     }, 
     {
-        "count": 142000000, 
+        "count": 74, 
         "f": 9, 
-        "percent": 79, 
+        "percent": 0, 
         "query": "fffffffffuuuuuuuuuu", 
         "u": 10
     }, 
     {
-        "count": 128000000, 
+        "count": 45, 
         "f": 9, 
-        "percent": 71, 
+        "percent": 0, 
         "query": "fffffffffuuuuuuuuuuu", 
         "u": 11
     }, 
     {
-        "count": 131000000, 
+        "count": 58, 
         "f": 9, 
-        "percent": 73, 
+        "percent": 0, 
         "query": "fffffffffuuuuuuuuuuuu", 
         "u": 12
     }, 
     {
-        "count": 430, 
+        "count": 431, 
         "f": 9, 
         "percent": 0, 
         "query": "fffffffffuuuuuuuuuuuuu", 
@@ -1225,14 +1113,14 @@
         "u": 15
     }, 
     {
-        "count": 530, 
+        "count": 524, 
         "f": 9, 
         "percent": 0, 
         "query": "fffffffffuuuuuuuuuuuuuuuu", 
         "u": 16
     }, 
     {
-        "count": 178, 
+        "count": 176, 
         "f": 9, 
         "percent": 0, 
         "query": "fffffffffuuuuuuuuuuuuuuuuu", 
@@ -1246,119 +1134,105 @@
         "u": 18
     }, 
     {
-        "count": 99, 
-        "f": 9, 
-        "percent": 0, 
-        "query": "fffffffffuuuuuuuuuuuuuuuuuuu", 
-        "u": 19
-    }, 
-    {
-        "count": 70, 
-        "f": 9, 
-        "percent": 0, 
-        "query": "fffffffffuuuuuuuuuuuuuuuuuuuu", 
-        "u": 20
-    }, 
-    {
-        "count": 258, 
+        "count": 259, 
         "f": 10, 
         "percent": 0, 
         "query": "ffffffffffu", 
         "u": 1
     }, 
     {
-        "count": 177, 
+        "count": 179, 
         "f": 10, 
         "percent": 0, 
         "query": "ffffffffffuu", 
         "u": 2
     }, 
     {
-        "count": 51, 
+        "count": 52, 
         "f": 10, 
         "percent": 0, 
         "query": "ffffffffffuuu", 
         "u": 3
     }, 
     {
-        "count": 341, 
+        "count": 337, 
         "f": 10, 
         "percent": 0, 
         "query": "ffffffffffuuuu", 
         "u": 4
     }, 
     {
-        "count": 268, 
+        "count": 269, 
         "f": 10, 
         "percent": 0, 
         "query": "ffffffffffuuuuu", 
         "u": 5
     }, 
     {
-        "count": 502, 
+        "count": 504, 
         "f": 10, 
         "percent": 0, 
         "query": "ffffffffffuuuuuu", 
         "u": 6
     }, 
     {
-        "count": 436, 
+        "count": 437, 
         "f": 10, 
         "percent": 0, 
         "query": "ffffffffffuuuuuuu", 
         "u": 7
     }, 
     {
-        "count": 472, 
+        "count": 451, 
         "f": 10, 
         "percent": 0, 
         "query": "ffffffffffuuuuuuuu", 
         "u": 8
     }, 
     {
-        "count": 1450, 
+        "count": 79, 
         "f": 10, 
         "percent": 0, 
         "query": "ffffffffffuuuuuuuuu", 
         "u": 9
     }, 
     {
-        "count": 570, 
+        "count": 29, 
         "f": 10, 
         "percent": 0, 
         "query": "ffffffffffuuuuuuuuuu", 
         "u": 10
     }, 
     {
-        "count": 514, 
+        "count": 510, 
         "f": 10, 
         "percent": 0, 
         "query": "ffffffffffuuuuuuuuuuu", 
         "u": 11
     }, 
     {
-        "count": 320, 
+        "count": 316, 
         "f": 10, 
         "percent": 0, 
         "query": "ffffffffffuuuuuuuuuuuu", 
         "u": 12
     }, 
     {
-        "count": 329, 
+        "count": 334, 
         "f": 10, 
         "percent": 0, 
         "query": "ffffffffffuuuuuuuuuuuuu", 
         "u": 13
     }, 
     {
-        "count": 261, 
+        "count": 265, 
         "f": 10, 
         "percent": 0, 
         "query": "ffffffffffuuuuuuuuuuuuuu", 
         "u": 14
     }, 
     {
-        "count": 307, 
+        "count": 310, 
         "f": 10, 
         "percent": 0, 
         "query": "ffffffffffuuuuuuuuuuuuuuu", 
@@ -1372,32 +1246,18 @@
         "u": 16
     }, 
     {
-        "count": 108, 
+        "count": 105, 
         "f": 10, 
         "percent": 0, 
         "query": "ffffffffffuuuuuuuuuuuuuuuuu", 
         "u": 17
     }, 
     {
-        "count": 97, 
+        "count": 96, 
         "f": 10, 
         "percent": 0, 
         "query": "ffffffffffuuuuuuuuuuuuuuuuuu", 
         "u": 18
-    }, 
-    {
-        "count": 99, 
-        "f": 10, 
-        "percent": 0, 
-        "query": "ffffffffffuuuuuuuuuuuuuuuuuuu", 
-        "u": 19
-    }, 
-    {
-        "count": 91, 
-        "f": 10, 
-        "percent": 0, 
-        "query": "ffffffffffuuuuuuuuuuuuuuuuuuuu", 
-        "u": 20
     }, 
     {
         "count": 244, 
@@ -1407,7 +1267,7 @@
         "u": 1
     }, 
     {
-        "count": 112, 
+        "count": 115, 
         "f": 11, 
         "percent": 0, 
         "query": "fffffffffffuu", 
@@ -1428,126 +1288,112 @@
         "u": 4
     }, 
     {
-        "count": 155, 
+        "count": 154, 
         "f": 11, 
         "percent": 0, 
         "query": "fffffffffffuuuuu", 
         "u": 5
     }, 
     {
-        "count": 253, 
+        "count": 249, 
         "f": 11, 
         "percent": 0, 
         "query": "fffffffffffuuuuuu", 
         "u": 6
     }, 
     {
-        "count": 258, 
+        "count": 259, 
         "f": 11, 
         "percent": 0, 
         "query": "fffffffffffuuuuuuu", 
         "u": 7
     }, 
     {
-        "count": 378, 
+        "count": 371, 
         "f": 11, 
         "percent": 0, 
         "query": "fffffffffffuuuuuuuu", 
         "u": 8
     }, 
     {
-        "count": 371, 
+        "count": 370, 
         "f": 11, 
         "percent": 0, 
         "query": "fffffffffffuuuuuuuuu", 
         "u": 9
     }, 
     {
-        "count": 345, 
+        "count": 351, 
         "f": 11, 
         "percent": 0, 
         "query": "fffffffffffuuuuuuuuuu", 
         "u": 10
     }, 
     {
-        "count": 2060, 
+        "count": 2080, 
         "f": 11, 
         "percent": 0, 
         "query": "fffffffffffuuuuuuuuuuu", 
         "u": 11
     }, 
     {
-        "count": 393, 
+        "count": 395, 
         "f": 11, 
         "percent": 0, 
         "query": "fffffffffffuuuuuuuuuuuu", 
         "u": 12
     }, 
     {
-        "count": 973, 
+        "count": 64, 
         "f": 11, 
         "percent": 0, 
         "query": "fffffffffffuuuuuuuuuuuuu", 
         "u": 13
     }, 
     {
-        "count": 330, 
+        "count": 332, 
         "f": 11, 
         "percent": 0, 
         "query": "fffffffffffuuuuuuuuuuuuuu", 
         "u": 14
     }, 
     {
-        "count": 256, 
+        "count": 262, 
         "f": 11, 
         "percent": 0, 
         "query": "fffffffffffuuuuuuuuuuuuuuu", 
         "u": 15
     }, 
     {
-        "count": 186, 
+        "count": 184, 
         "f": 11, 
         "percent": 0, 
         "query": "fffffffffffuuuuuuuuuuuuuuuu", 
         "u": 16
     }, 
     {
-        "count": 620, 
+        "count": 622, 
         "f": 11, 
         "percent": 0, 
         "query": "fffffffffffuuuuuuuuuuuuuuuuu", 
         "u": 17
     }, 
     {
-        "count": 77, 
+        "count": 78, 
         "f": 11, 
         "percent": 0, 
         "query": "fffffffffffuuuuuuuuuuuuuuuuuu", 
         "u": 18
     }, 
     {
-        "count": 234, 
-        "f": 11, 
-        "percent": 0, 
-        "query": "fffffffffffuuuuuuuuuuuuuuuuuuu", 
-        "u": 19
-    }, 
-    {
-        "count": 67, 
-        "f": 11, 
-        "percent": 0, 
-        "query": "fffffffffffuuuuuuuuuuuuuuuuuuuu", 
-        "u": 20
-    }, 
-    {
-        "count": 145, 
+        "count": 144, 
         "f": 12, 
         "percent": 0, 
         "query": "ffffffffffffu", 
         "u": 1
     }, 
     {
-        "count": 100, 
+        "count": 95, 
         "f": 12, 
         "percent": 0, 
         "query": "ffffffffffffuu", 
@@ -1561,42 +1407,42 @@
         "u": 3
     }, 
     {
-        "count": 57, 
+        "count": 58, 
         "f": 12, 
         "percent": 0, 
         "query": "ffffffffffffuuuu", 
         "u": 4
     }, 
     {
-        "count": 128, 
+        "count": 130, 
         "f": 12, 
         "percent": 0, 
         "query": "ffffffffffffuuuuu", 
         "u": 5
     }, 
     {
-        "count": 50, 
+        "count": 51, 
         "f": 12, 
         "percent": 0, 
         "query": "ffffffffffffuuuuuu", 
         "u": 6
     }, 
     {
-        "count": 245, 
+        "count": 238, 
         "f": 12, 
         "percent": 0, 
         "query": "ffffffffffffuuuuuuu", 
         "u": 7
     }, 
     {
-        "count": 143, 
+        "count": 141, 
         "f": 12, 
         "percent": 0, 
         "query": "ffffffffffffuuuuuuuu", 
         "u": 8
     }, 
     {
-        "count": 2490, 
+        "count": 159, 
         "f": 12, 
         "percent": 0, 
         "query": "ffffffffffffuuuuuuuuu", 
@@ -1610,21 +1456,21 @@
         "u": 10
     }, 
     {
-        "count": 805, 
+        "count": 812, 
         "f": 12, 
         "percent": 0, 
         "query": "ffffffffffffuuuuuuuuuuu", 
         "u": 11
     }, 
     {
-        "count": 376, 
+        "count": 374, 
         "f": 12, 
         "percent": 0, 
         "query": "ffffffffffffuuuuuuuuuuuu", 
         "u": 12
     }, 
     {
-        "count": 369, 
+        "count": 368, 
         "f": 12, 
         "percent": 0, 
         "query": "ffffffffffffuuuuuuuuuuuuu", 
@@ -1638,56 +1484,42 @@
         "u": 14
     }, 
     {
-        "count": 298, 
+        "count": 292, 
         "f": 12, 
         "percent": 0, 
         "query": "ffffffffffffuuuuuuuuuuuuuuu", 
         "u": 15
     }, 
     {
-        "count": 177, 
+        "count": 176, 
         "f": 12, 
         "percent": 0, 
         "query": "ffffffffffffuuuuuuuuuuuuuuuu", 
         "u": 16
     }, 
     {
-        "count": 97, 
+        "count": 99, 
         "f": 12, 
         "percent": 0, 
         "query": "ffffffffffffuuuuuuuuuuuuuuuuu", 
         "u": 17
     }, 
     {
-        "count": 202, 
+        "count": 201, 
         "f": 12, 
         "percent": 0, 
         "query": "ffffffffffffuuuuuuuuuuuuuuuuuu", 
         "u": 18
     }, 
     {
-        "count": 73, 
-        "f": 12, 
-        "percent": 0, 
-        "query": "ffffffffffffuuuuuuuuuuuuuuuuuuu", 
-        "u": 19
-    }, 
-    {
-        "count": 66, 
-        "f": 12, 
-        "percent": 0, 
-        "query": "ffffffffffffuuuuuuuuuuuuuuuuuuuu", 
-        "u": 20
-    }, 
-    {
-        "count": 121, 
+        "count": 122, 
         "f": 13, 
         "percent": 0, 
         "query": "fffffffffffffu", 
         "u": 1
     }, 
     {
-        "count": 92, 
+        "count": 93, 
         "f": 13, 
         "percent": 0, 
         "query": "fffffffffffffuu", 
@@ -1701,7 +1533,7 @@
         "u": 3
     }, 
     {
-        "count": 30, 
+        "count": 29, 
         "f": 13, 
         "percent": 0, 
         "query": "fffffffffffffuuuu", 
@@ -1722,56 +1554,56 @@
         "u": 6
     }, 
     {
-        "count": 123, 
+        "count": 124, 
         "f": 13, 
         "percent": 0, 
         "query": "fffffffffffffuuuuuuu", 
         "u": 7
     }, 
     {
-        "count": 97, 
+        "count": 96, 
         "f": 13, 
         "percent": 0, 
         "query": "fffffffffffffuuuuuuuu", 
         "u": 8
     }, 
     {
-        "count": 95, 
+        "count": 97, 
         "f": 13, 
         "percent": 0, 
         "query": "fffffffffffffuuuuuuuuu", 
         "u": 9
     }, 
     {
-        "count": 247, 
+        "count": 242, 
         "f": 13, 
         "percent": 0, 
         "query": "fffffffffffffuuuuuuuuuu", 
         "u": 10
     }, 
     {
-        "count": 203, 
+        "count": 200, 
         "f": 13, 
         "percent": 0, 
         "query": "fffffffffffffuuuuuuuuuuu", 
         "u": 11
     }, 
     {
-        "count": 610, 
+        "count": 615, 
         "f": 13, 
         "percent": 0, 
         "query": "fffffffffffffuuuuuuuuuuuu", 
         "u": 12
     }, 
     {
-        "count": 220, 
+        "count": 218, 
         "f": 13, 
         "percent": 0, 
         "query": "fffffffffffffuuuuuuuuuuuuu", 
         "u": 13
     }, 
     {
-        "count": 236, 
+        "count": 248, 
         "f": 13, 
         "percent": 0, 
         "query": "fffffffffffffuuuuuuuuuuuuuu", 
@@ -1792,7 +1624,7 @@
         "u": 16
     }, 
     {
-        "count": 101, 
+        "count": 100, 
         "f": 13, 
         "percent": 0, 
         "query": "fffffffffffffuuuuuuuuuuuuuuuuu", 
@@ -1806,20 +1638,6 @@
         "u": 18
     }, 
     {
-        "count": 42, 
-        "f": 13, 
-        "percent": 0, 
-        "query": "fffffffffffffuuuuuuuuuuuuuuuuuuu", 
-        "u": 19
-    }, 
-    {
-        "count": 85, 
-        "f": 13, 
-        "percent": 0, 
-        "query": "fffffffffffffuuuuuuuuuuuuuuuuuuuu", 
-        "u": 20
-    }, 
-    {
         "count": 110, 
         "f": 14, 
         "percent": 0, 
@@ -1829,54 +1647,54 @@
     {
         "count": 428000, 
         "f": 14, 
-        "percent": 0, 
+        "percent": 99, 
         "query": "ffffffffffffffuu", 
         "u": 2
     }, 
     {
         "count": 428000, 
         "f": 14, 
-        "percent": 0, 
+        "percent": 99, 
         "query": "ffffffffffffffuuu", 
         "u": 3
     }, 
     {
-        "count": 32, 
+        "count": 31, 
         "f": 14, 
         "percent": 0, 
         "query": "ffffffffffffffuuuu", 
         "u": 4
     }, 
     {
-        "count": 75, 
+        "count": 73, 
         "f": 14, 
         "percent": 0, 
         "query": "ffffffffffffffuuuuu", 
         "u": 5
     }, 
     {
-        "count": 29, 
+        "count": 30, 
         "f": 14, 
         "percent": 0, 
         "query": "ffffffffffffffuuuuuu", 
         "u": 6
     }, 
     {
-        "count": 159, 
+        "count": 160, 
         "f": 14, 
         "percent": 0, 
         "query": "ffffffffffffffuuuuuuu", 
         "u": 7
     }, 
     {
-        "count": 39, 
+        "count": 36, 
         "f": 14, 
         "percent": 0, 
         "query": "ffffffffffffffuuuuuuuu", 
         "u": 8
     }, 
     {
-        "count": 72, 
+        "count": 73, 
         "f": 14, 
         "percent": 0, 
         "query": "ffffffffffffffuuuuuuuuu", 
@@ -1890,7 +1708,7 @@
         "u": 10
     }, 
     {
-        "count": 192, 
+        "count": 190, 
         "f": 14, 
         "percent": 0, 
         "query": "ffffffffffffffuuuuuuuuuuu", 
@@ -1904,60 +1722,46 @@
         "u": 12
     }, 
     {
-        "count": 232, 
+        "count": 234, 
         "f": 14, 
         "percent": 0, 
         "query": "ffffffffffffffuuuuuuuuuuuuu", 
         "u": 13
     }, 
     {
-        "count": 151, 
+        "count": 155, 
         "f": 14, 
         "percent": 0, 
         "query": "ffffffffffffffuuuuuuuuuuuuuu", 
         "u": 14
     }, 
     {
-        "count": 223, 
+        "count": 227, 
         "f": 14, 
         "percent": 0, 
         "query": "ffffffffffffffuuuuuuuuuuuuuuu", 
         "u": 15
     }, 
     {
-        "count": 140, 
+        "count": 135, 
         "f": 14, 
         "percent": 0, 
         "query": "ffffffffffffffuuuuuuuuuuuuuuuu", 
         "u": 16
     }, 
     {
-        "count": 138, 
+        "count": 136, 
         "f": 14, 
         "percent": 0, 
         "query": "ffffffffffffffuuuuuuuuuuuuuuuuu", 
         "u": 17
     }, 
     {
-        "count": 69, 
+        "count": 70, 
         "f": 14, 
         "percent": 0, 
         "query": "ffffffffffffffuuuuuuuuuuuuuuuuuu", 
         "u": 18
-    }, 
-    {
-        "count": 67, 
-        "f": 14, 
-        "percent": 0, 
-        "query": "ffffffffffffffuuuuuuuuuuuuuuuuuuu", 
-        "u": 19
-    }, 
-    {
-        "count": 45, 
-        "f": 14, 
-        "percent": 0, 
-        "query": "ffffffffffffffuuuuuuuuuuuuuuuuuuuu", 
-        "u": 20
     }, 
     {
         "count": 125, 
@@ -1995,7 +1799,7 @@
         "u": 5
     }, 
     {
-        "count": 79, 
+        "count": 78, 
         "f": 15, 
         "percent": 0, 
         "query": "fffffffffffffffuuuuuu", 
@@ -2030,49 +1834,49 @@
         "u": 10
     }, 
     {
-        "count": 174, 
+        "count": 176, 
         "f": 15, 
         "percent": 0, 
         "query": "fffffffffffffffuuuuuuuuuuu", 
         "u": 11
     }, 
     {
-        "count": 95, 
+        "count": 97, 
         "f": 15, 
         "percent": 0, 
         "query": "fffffffffffffffuuuuuuuuuuuu", 
         "u": 12
     }, 
     {
-        "count": 2380, 
+        "count": 2370, 
         "f": 15, 
         "percent": 0, 
         "query": "fffffffffffffffuuuuuuuuuuuuu", 
         "u": 13
     }, 
     {
-        "count": 120, 
+        "count": 118, 
         "f": 15, 
         "percent": 0, 
         "query": "fffffffffffffffuuuuuuuuuuuuuu", 
         "u": 14
     }, 
     {
-        "count": 152, 
+        "count": 148, 
         "f": 15, 
         "percent": 0, 
         "query": "fffffffffffffffuuuuuuuuuuuuuuu", 
         "u": 15
     }, 
     {
-        "count": 87, 
+        "count": 88, 
         "f": 15, 
         "percent": 0, 
         "query": "fffffffffffffffuuuuuuuuuuuuuuuu", 
         "u": 16
     }, 
     {
-        "count": 137, 
+        "count": 134, 
         "f": 15, 
         "percent": 0, 
         "query": "fffffffffffffffuuuuuuuuuuuuuuuuu", 
@@ -2086,21 +1890,7 @@
         "u": 18
     }, 
     {
-        "count": 43, 
-        "f": 15, 
-        "percent": 0, 
-        "query": "fffffffffffffffuuuuuuuuuuuuuuuuuuu", 
-        "u": 19
-    }, 
-    {
-        "count": 65, 
-        "f": 15, 
-        "percent": 0, 
-        "query": "fffffffffffffffuuuuuuuuuuuuuuuuuuuu", 
-        "u": 20
-    }, 
-    {
-        "count": 101, 
+        "count": 102, 
         "f": 16, 
         "percent": 0, 
         "query": "ffffffffffffffffu", 
@@ -2114,7 +1904,7 @@
         "u": 2
     }, 
     {
-        "count": 19, 
+        "count": 21, 
         "f": 16, 
         "percent": 0, 
         "query": "ffffffffffffffffuuu", 
@@ -2135,14 +1925,14 @@
         "u": 5
     }, 
     {
-        "count": 55, 
+        "count": 53, 
         "f": 16, 
         "percent": 0, 
         "query": "ffffffffffffffffuuuuuu", 
         "u": 6
     }, 
     {
-        "count": 55, 
+        "count": 54, 
         "f": 16, 
         "percent": 0, 
         "query": "ffffffffffffffffuuuuuuu", 
@@ -2156,28 +1946,28 @@
         "u": 8
     }, 
     {
-        "count": 60, 
+        "count": 61, 
         "f": 16, 
         "percent": 0, 
         "query": "ffffffffffffffffuuuuuuuuu", 
         "u": 9
     }, 
     {
-        "count": 56, 
+        "count": 58, 
         "f": 16, 
         "percent": 0, 
         "query": "ffffffffffffffffuuuuuuuuuu", 
         "u": 10
     }, 
     {
-        "count": 44, 
+        "count": 45, 
         "f": 16, 
         "percent": 0, 
         "query": "ffffffffffffffffuuuuuuuuuuu", 
         "u": 11
     }, 
     {
-        "count": 201, 
+        "count": 202, 
         "f": 16, 
         "percent": 0, 
         "query": "ffffffffffffffffuuuuuuuuuuuu", 
@@ -2198,7 +1988,7 @@
         "u": 14
     }, 
     {
-        "count": 93, 
+        "count": 91, 
         "f": 16, 
         "percent": 0, 
         "query": "ffffffffffffffffuuuuuuuuuuuuuuu", 
@@ -2212,32 +2002,18 @@
         "u": 16
     }, 
     {
-        "count": 99, 
+        "count": 98, 
         "f": 16, 
         "percent": 0, 
         "query": "ffffffffffffffffuuuuuuuuuuuuuuuuu", 
         "u": 17
     }, 
     {
-        "count": 101, 
+        "count": 102, 
         "f": 16, 
         "percent": 0, 
         "query": "ffffffffffffffffuuuuuuuuuuuuuuuuuu", 
         "u": 18
-    }, 
-    {
-        "count": 116, 
-        "f": 16, 
-        "percent": 0, 
-        "query": "ffffffffffffffffuuuuuuuuuuuuuuuuuuu", 
-        "u": 19
-    }, 
-    {
-        "count": 46, 
-        "f": 16, 
-        "percent": 0, 
-        "query": "ffffffffffffffffuuuuuuuuuuuuuuuuuuuu", 
-        "u": 20
     }, 
     {
         "count": 78, 
@@ -2249,12 +2025,12 @@
     {
         "count": 428000, 
         "f": 17, 
-        "percent": 0, 
+        "percent": 99, 
         "query": "fffffffffffffffffuu", 
         "u": 2
     }, 
     {
-        "count": 14, 
+        "count": 13, 
         "f": 17, 
         "percent": 0, 
         "query": "fffffffffffffffffuuu", 
@@ -2275,7 +2051,7 @@
         "u": 5
     }, 
     {
-        "count": 12, 
+        "count": 15, 
         "f": 17, 
         "percent": 0, 
         "query": "fffffffffffffffffuuuuuu", 
@@ -2303,14 +2079,14 @@
         "u": 9
     }, 
     {
-        "count": 65, 
+        "count": 68, 
         "f": 17, 
         "percent": 0, 
         "query": "fffffffffffffffffuuuuuuuuuu", 
         "u": 10
     }, 
     {
-        "count": 83, 
+        "count": 82, 
         "f": 17, 
         "percent": 0, 
         "query": "fffffffffffffffffuuuuuuuuuuu", 
@@ -2331,28 +2107,28 @@
         "u": 13
     }, 
     {
-        "count": 48, 
+        "count": 49, 
         "f": 17, 
         "percent": 0, 
         "query": "fffffffffffffffffuuuuuuuuuuuuuu", 
         "u": 14
     }, 
     {
-        "count": 49, 
+        "count": 51, 
         "f": 17, 
         "percent": 0, 
         "query": "fffffffffffffffffuuuuuuuuuuuuuuu", 
         "u": 15
     }, 
     {
-        "count": 78, 
+        "count": 75, 
         "f": 17, 
         "percent": 0, 
         "query": "fffffffffffffffffuuuuuuuuuuuuuuuu", 
         "u": 16
     }, 
     {
-        "count": 68, 
+        "count": 69, 
         "f": 17, 
         "percent": 0, 
         "query": "fffffffffffffffffuuuuuuuuuuuuuuuuu", 
@@ -2366,30 +2142,16 @@
         "u": 18
     }, 
     {
-        "count": 34, 
-        "f": 17, 
-        "percent": 0, 
-        "query": "fffffffffffffffffuuuuuuuuuuuuuuuuuuu", 
-        "u": 19
-    }, 
-    {
-        "count": 61, 
-        "f": 17, 
-        "percent": 0, 
-        "query": "fffffffffffffffffuuuuuuuuuuuuuuuuuuuu", 
-        "u": 20
-    }, 
-    {
         "count": 429000, 
         "f": 18, 
-        "percent": 0, 
+        "percent": 100, 
         "query": "ffffffffffffffffffu", 
         "u": 1
     }, 
     {
         "count": 428000, 
         "f": 18, 
-        "percent": 0, 
+        "percent": 99, 
         "query": "ffffffffffffffffffuu", 
         "u": 2
     }, 
@@ -2408,7 +2170,7 @@
         "u": 4
     }, 
     {
-        "count": 68, 
+        "count": 69, 
         "f": 18, 
         "percent": 0, 
         "query": "ffffffffffffffffffuuuuu", 
@@ -2429,7 +2191,7 @@
         "u": 7
     }, 
     {
-        "count": 30, 
+        "count": 32, 
         "f": 18, 
         "percent": 0, 
         "query": "ffffffffffffffffffuuuuuuuu", 
@@ -2457,7 +2219,7 @@
         "u": 11
     }, 
     {
-        "count": 53, 
+        "count": 52, 
         "f": 18, 
         "percent": 0, 
         "query": "ffffffffffffffffffuuuuuuuuuuuu", 
@@ -2485,42 +2247,28 @@
         "u": 15
     }, 
     {
-        "count": 39, 
+        "count": 38, 
         "f": 18, 
         "percent": 0, 
         "query": "ffffffffffffffffffuuuuuuuuuuuuuuuu", 
         "u": 16
     }, 
     {
-        "count": 50, 
+        "count": 51, 
         "f": 18, 
         "percent": 0, 
         "query": "ffffffffffffffffffuuuuuuuuuuuuuuuuu", 
         "u": 17
     }, 
     {
-        "count": 37, 
+        "count": 36, 
         "f": 18, 
         "percent": 0, 
         "query": "ffffffffffffffffffuuuuuuuuuuuuuuuuuu", 
         "u": 18
     }, 
     {
-        "count": 76, 
-        "f": 18, 
-        "percent": 0, 
-        "query": "ffffffffffffffffffuuuuuuuuuuuuuuuuuuu", 
-        "u": 19
-    }, 
-    {
-        "count": 63, 
-        "f": 18, 
-        "percent": 0, 
-        "query": "ffffffffffffffffffuuuuuuuuuuuuuuuuuuuu", 
-        "u": 20
-    }, 
-    {
-        "count": 74, 
+        "count": 75, 
         "f": 19, 
         "percent": 0, 
         "query": "fffffffffffffffffffu", 
@@ -2529,14 +2277,14 @@
     {
         "count": 428000, 
         "f": 19, 
-        "percent": 0, 
+        "percent": 99, 
         "query": "fffffffffffffffffffuu", 
         "u": 2
     }, 
     {
         "count": 428000, 
         "f": 19, 
-        "percent": 0, 
+        "percent": 99, 
         "query": "fffffffffffffffffffuuu", 
         "u": 3
     }, 
@@ -2548,7 +2296,7 @@
         "u": 4
     }, 
     {
-        "count": 29, 
+        "count": 30, 
         "f": 19, 
         "percent": 0, 
         "query": "fffffffffffffffffffuuuuu", 
@@ -2557,7 +2305,7 @@
     {
         "count": 428000, 
         "f": 19, 
-        "percent": 0, 
+        "percent": 99, 
         "query": "fffffffffffffffffffuuuuuu", 
         "u": 6
     }, 
@@ -2569,7 +2317,7 @@
         "u": 7
     }, 
     {
-        "count": 428000, 
+        "count": 6, 
         "f": 19, 
         "percent": 0, 
         "query": "fffffffffffffffffffuuuuuuuu", 
@@ -2578,12 +2326,12 @@
     {
         "count": 428000, 
         "f": 19, 
-        "percent": 0, 
+        "percent": 99, 
         "query": "fffffffffffffffffffuuuuuuuuu", 
         "u": 9
     }, 
     {
-        "count": 22, 
+        "count": 23, 
         "f": 19, 
         "percent": 0, 
         "query": "fffffffffffffffffffuuuuuuuuuu", 
@@ -2641,23 +2389,9 @@
     {
         "count": 428000, 
         "f": 19, 
-        "percent": 0, 
+        "percent": 99, 
         "query": "fffffffffffffffffffuuuuuuuuuuuuuuuuuu", 
         "u": 18
-    }, 
-    {
-        "count": 38, 
-        "f": 19, 
-        "percent": 0, 
-        "query": "fffffffffffffffffffuuuuuuuuuuuuuuuuuuu", 
-        "u": 19
-    }, 
-    {
-        "count": 60, 
-        "f": 19, 
-        "percent": 0, 
-        "query": "fffffffffffffffffffuuuuuuuuuuuuuuuuuuuu", 
-        "u": 20
     }, 
     {
         "count": 75, 
@@ -2669,12 +2403,12 @@
     {
         "count": 428000, 
         "f": 20, 
-        "percent": 0, 
+        "percent": 99, 
         "query": "ffffffffffffffffffffuu", 
         "u": 2
     }, 
     {
-        "count": 28, 
+        "count": 27, 
         "f": 20, 
         "percent": 0, 
         "query": "ffffffffffffffffffffuuu", 
@@ -2683,28 +2417,28 @@
     {
         "count": 428000, 
         "f": 20, 
-        "percent": 0, 
+        "percent": 99, 
         "query": "ffffffffffffffffffffuuuu", 
         "u": 4
     }, 
     {
         "count": 428000, 
         "f": 20, 
-        "percent": 0, 
+        "percent": 99, 
         "query": "ffffffffffffffffffffuuuuu", 
         "u": 5
     }, 
     {
         "count": 428000, 
         "f": 20, 
-        "percent": 0, 
+        "percent": 99, 
         "query": "ffffffffffffffffffffuuuuuu", 
         "u": 6
     }, 
     {
         "count": 428000, 
         "f": 20, 
-        "percent": 0, 
+        "percent": 99, 
         "query": "ffffffffffffffffffffuuuuuuu", 
         "u": 7
     }, 
@@ -2716,7 +2450,7 @@
         "u": 8
     }, 
     {
-        "count": 24, 
+        "count": 23, 
         "f": 20, 
         "percent": 0, 
         "query": "ffffffffffffffffffffuuuuuuuuu", 
@@ -2730,7 +2464,7 @@
         "u": 10
     }, 
     {
-        "count": 8, 
+        "count": 166, 
         "f": 20, 
         "percent": 0, 
         "query": "ffffffffffffffffffffuuuuuuuuuuu", 
@@ -2739,33 +2473,33 @@
     {
         "count": 428000, 
         "f": 20, 
-        "percent": 0, 
+        "percent": 99, 
         "query": "ffffffffffffffffffffuuuuuuuuuuuu", 
         "u": 12
     }, 
     {
-        "count": 50, 
+        "count": 51, 
         "f": 20, 
         "percent": 0, 
         "query": "ffffffffffffffffffffuuuuuuuuuuuuu", 
         "u": 13
     }, 
     {
-        "count": 35, 
+        "count": 34, 
         "f": 20, 
         "percent": 0, 
         "query": "ffffffffffffffffffffuuuuuuuuuuuuuu", 
         "u": 14
     }, 
     {
-        "count": 57, 
+        "count": 56, 
         "f": 20, 
         "percent": 0, 
         "query": "ffffffffffffffffffffuuuuuuuuuuuuuuu", 
         "u": 15
     }, 
     {
-        "count": 28, 
+        "count": 27, 
         "f": 20, 
         "percent": 0, 
         "query": "ffffffffffffffffffffuuuuuuuuuuuuuuuu", 
@@ -2779,24 +2513,1270 @@
         "u": 17
     }, 
     {
-        "count": 50, 
+        "count": 53, 
         "f": 20, 
         "percent": 0, 
         "query": "ffffffffffffffffffffuuuuuuuuuuuuuuuuuu", 
         "u": 18
     }, 
     {
-        "count": 79, 
-        "f": 20, 
+        "count": 76, 
+        "f": 21, 
         "percent": 0, 
-        "query": "ffffffffffffffffffffuuuuuuuuuuuuuuuuuuu", 
-        "u": 19
+        "query": "fffffffffffffffffffffu", 
+        "u": 1
     }, 
     {
-        "count": 42, 
-        "f": 20, 
+        "count": 428000, 
+        "f": 21, 
+        "percent": 99, 
+        "query": "fffffffffffffffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 6, 
+        "f": 21, 
         "percent": 0, 
-        "query": "ffffffffffffffffffffuuuuuuuuuuuuuuuuuuuu", 
-        "u": 20
+        "query": "fffffffffffffffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 428000, 
+        "f": 21, 
+        "percent": 99, 
+        "query": "fffffffffffffffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 28, 
+        "f": 21, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 428000, 
+        "f": 21, 
+        "percent": 99, 
+        "query": "fffffffffffffffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 428000, 
+        "f": 21, 
+        "percent": 99, 
+        "query": "fffffffffffffffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 4, 
+        "f": 21, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 20, 
+        "f": 21, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 11, 
+        "f": 21, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 15, 
+        "f": 21, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 24, 
+        "f": 21, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 18, 
+        "f": 21, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 18, 
+        "f": 21, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 12, 
+        "f": 21, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 43, 
+        "f": 21, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 38, 
+        "f": 21, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 27, 
+        "f": 21, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 27, 
+        "f": 22, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 428000, 
+        "f": 22, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 11, 
+        "f": 22, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 428000, 
+        "f": 22, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 18, 
+        "f": 22, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 7, 
+        "f": 22, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 16, 
+        "f": 22, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 20, 
+        "f": 22, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 11, 
+        "f": 22, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 16, 
+        "f": 22, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 428000, 
+        "f": 22, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 48, 
+        "f": 22, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 15, 
+        "f": 22, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 21, 
+        "f": 22, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 30, 
+        "f": 22, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 68, 
+        "f": 22, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 29, 
+        "f": 22, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 32, 
+        "f": 22, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 45, 
+        "f": 23, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 31, 
+        "f": 23, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 16, 
+        "f": 23, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 3, 
+        "f": 23, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 33, 
+        "f": 23, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 13, 
+        "f": 23, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 45, 
+        "f": 23, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 3, 
+        "f": 23, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 17, 
+        "f": 23, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 17, 
+        "f": 23, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 428000, 
+        "f": 23, 
+        "percent": 99, 
+        "query": "fffffffffffffffffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 23, 
+        "f": 23, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 10, 
+        "f": 23, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 12, 
+        "f": 23, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 428000, 
+        "f": 23, 
+        "percent": 99, 
+        "query": "fffffffffffffffffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 20, 
+        "f": 23, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 34, 
+        "f": 23, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 32, 
+        "f": 23, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 429000, 
+        "f": 24, 
+        "percent": 100, 
+        "query": "ffffffffffffffffffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 428000, 
+        "f": 24, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 3, 
+        "f": 24, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 428000, 
+        "f": 24, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 428000, 
+        "f": 24, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 428000, 
+        "f": 24, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 32, 
+        "f": 24, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 428000, 
+        "f": 24, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 20, 
+        "f": 24, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 7, 
+        "f": 24, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 16, 
+        "f": 24, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 4, 
+        "f": 24, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 3, 
+        "f": 24, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 428000, 
+        "f": 24, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 10, 
+        "f": 24, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 23, 
+        "f": 24, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 16, 
+        "f": 24, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 22, 
+        "f": 24, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 429000, 
+        "f": 25, 
+        "percent": 100, 
+        "query": "fffffffffffffffffffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 428000, 
+        "f": 25, 
+        "percent": 99, 
+        "query": "fffffffffffffffffffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 1, 
+        "f": 25, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 4, 
+        "f": 25, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 428000, 
+        "f": 25, 
+        "percent": 99, 
+        "query": "fffffffffffffffffffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 1, 
+        "f": 25, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 428000, 
+        "f": 25, 
+        "percent": 99, 
+        "query": "fffffffffffffffffffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 1, 
+        "f": 25, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 3, 
+        "f": 25, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 428000, 
+        "f": 25, 
+        "percent": 99, 
+        "query": "fffffffffffffffffffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 2, 
+        "f": 25, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 428000, 
+        "f": 25, 
+        "percent": 99, 
+        "query": "fffffffffffffffffffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 12, 
+        "f": 25, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 2, 
+        "f": 25, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 23, 
+        "f": 25, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 11, 
+        "f": 25, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 24, 
+        "f": 25, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 35, 
+        "f": 25, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 429000, 
+        "f": 26, 
+        "percent": 100, 
+        "query": "ffffffffffffffffffffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 428000, 
+        "f": 26, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 4, 
+        "f": 26, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 10, 
+        "f": 26, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 428000, 
+        "f": 26, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 428000, 
+        "f": 26, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 428000, 
+        "f": 26, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 2, 
+        "f": 26, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 385000, 
+        "f": 26, 
+        "percent": 89, 
+        "query": "ffffffffffffffffffffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 428000, 
+        "f": 26, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 428000, 
+        "f": 26, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 2, 
+        "f": 26, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 428000, 
+        "f": 26, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 428000, 
+        "f": 26, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 4, 
+        "f": 26, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 4, 
+        "f": 26, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 23, 
+        "f": 26, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 25, 
+        "f": 26, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 21, 
+        "f": 27, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 428000, 
+        "f": 27, 
+        "percent": 99, 
+        "query": "fffffffffffffffffffffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 8, 
+        "f": 27, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 0, 
+        "f": 27, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 428000, 
+        "f": 27, 
+        "percent": 99, 
+        "query": "fffffffffffffffffffffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 1, 
+        "f": 27, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 428000, 
+        "f": 27, 
+        "percent": 99, 
+        "query": "fffffffffffffffffffffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 4, 
+        "f": 27, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 2, 
+        "f": 27, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 4, 
+        "f": 27, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 2, 
+        "f": 27, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 4, 
+        "f": 27, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 45, 
+        "f": 27, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 3, 
+        "f": 27, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 12, 
+        "f": 27, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 428000, 
+        "f": 27, 
+        "percent": 99, 
+        "query": "fffffffffffffffffffffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 3, 
+        "f": 27, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 428000, 
+        "f": 27, 
+        "percent": 99, 
+        "query": "fffffffffffffffffffffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 429000, 
+        "f": 28, 
+        "percent": 100, 
+        "query": "ffffffffffffffffffffffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 428000, 
+        "f": 28, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 3, 
+        "f": 28, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 1, 
+        "f": 28, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 19, 
+        "f": 28, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 2, 
+        "f": 28, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 428000, 
+        "f": 28, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 0, 
+        "f": 28, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 2, 
+        "f": 28, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 4, 
+        "f": 28, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 1, 
+        "f": 28, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 14, 
+        "f": 28, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 3, 
+        "f": 28, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 428000, 
+        "f": 28, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 4, 
+        "f": 28, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 2, 
+        "f": 28, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 2, 
+        "f": 28, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 428000, 
+        "f": 28, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 18, 
+        "f": 29, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 1, 
+        "f": 29, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 4, 
+        "f": 29, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 2, 
+        "f": 29, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 428000, 
+        "f": 29, 
+        "percent": 99, 
+        "query": "fffffffffffffffffffffffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 1, 
+        "f": 29, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 2, 
+        "f": 29, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 8, 
+        "f": 29, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 2, 
+        "f": 29, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 1, 
+        "f": 29, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 7, 
+        "f": 29, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 428000, 
+        "f": 29, 
+        "percent": 99, 
+        "query": "fffffffffffffffffffffffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 3, 
+        "f": 29, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 3, 
+        "f": 29, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 428000, 
+        "f": 29, 
+        "percent": 99, 
+        "query": "fffffffffffffffffffffffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 428000, 
+        "f": 29, 
+        "percent": 99, 
+        "query": "fffffffffffffffffffffffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 3, 
+        "f": 29, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 2, 
+        "f": 29, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffffffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 10, 
+        "f": 30, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 0, 
+        "f": 30, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 2, 
+        "f": 30, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 4, 
+        "f": 30, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 428000, 
+        "f": 30, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 0, 
+        "f": 30, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 7, 
+        "f": 30, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 0, 
+        "f": 30, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 2, 
+        "f": 30, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 428000, 
+        "f": 30, 
+        "percent": 99, 
+        "query": "ffffffffffffffffffffffffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 0, 
+        "f": 30, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 0, 
+        "f": 30, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 3, 
+        "f": 30, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 1, 
+        "f": 30, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 3, 
+        "f": 30, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 1, 
+        "f": 30, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 4, 
+        "f": 30, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 3, 
+        "f": 30, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffffffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
     }
 ]
