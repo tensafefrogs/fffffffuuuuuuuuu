@@ -4,7 +4,7 @@ import json
 import urllib2
 
 f_count = 30;
-u_count = 18;
+u_count = 26;
 f = 'f'
 u = 'u'
 
