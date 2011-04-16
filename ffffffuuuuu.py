@@ -1,14 +1,16 @@
 #!/usr/bin/python
 
 import json
+import re
 import urllib2
 
-f_count = 30;
-u_count = 26;
+f_count = 20;
+u_count = 25;
 f = 'f'
 u = 'u'
 
-url_template = 'http://ajax.googleapis.com/ajax/services/search/web?v=1.0&q=%s'
+#url_template = 'http://ajax.googleapis.com/ajax/services/search/web?v=1.0&q=%s'
+url_template = 'http://www.google.com/search?aq=f&sourceid=chrome&ie=UTF-8&q=%s'
 
 full_result =[]
 
@@ -23,17 +25,21 @@ for x in range(1, f_count + 1):
     # but you should probably use your own site.
     # Without this, the google API will not accept many requests.
     req.add_header('Referer', 'http://blog.deconcept.com/')
+    req.add_header('User-Agent', 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13')
     data = urllib2.urlopen(req)
     #print 'requesting url %s' % url
     result = data.read()
-    parsed_result = json.loads(result)
+    #parsed_result = json.loads(result)
+    resultMatch = re.compile("t\s([0-9,]+)\sr")
+    est_count = resultMatch.search(result).group(1).replace(',', '')
+    #print est_count
 
-    try:
-      est_count = parsed_result['responseData']['cursor']['estimatedResultCount']
-    except KeyError:
+    #try:
+      #est_count = parsed_result['responseData']['cursor']['estimatedResultCount']
+    #except KeyError:
       # Sometimes the API response is not complete,
       # so just set to 0 since it's probably 0 anyway
-      est_count = 0
+      #est_count = 0
 
     #print est_count
 
