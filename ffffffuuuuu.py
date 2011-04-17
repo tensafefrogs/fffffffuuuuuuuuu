@@ -4,8 +4,8 @@ import json
 import re
 import urllib2
 
-f_count = 20;
-u_count = 25;
+f_count = 2;
+u_count = 2;
 f = 'f'
 u = 'u'
 
@@ -60,17 +60,19 @@ for x in range(len(full_result)):
   if max_value < current_count:
     max_value = float(current_count)
 
+median = full_result[int(len(full_result) / 2)]['count']
+#print "median is %s" % median
+# TODO: use median as 50% and calculate "percent" based on that
+
 # Set the % value in each item (for display purposes)
 for x in range(len(full_result)):
   current_item = full_result[x]
   #print current_item['count']
-  current_item['percent'] = int((current_item['count'] / max_value) * 100.0)
+  #current_item['percent'] = int((current_item['count'] / max_value) * 100.0)
+  current_item['percent'] = getCurvedPercent(current_item['count'], max_value)
 
 # Spit out the data in json format so jquery/javascript can read it
 print json.dumps(full_result, sort_keys=True, indent=4)
-
-
-
 
 
 

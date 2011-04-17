@@ -10,11 +10,7 @@
   }
 
   function onJSONGot(data) {
-    var tableStart = "<table>";
-    var tableEnd = "</table>";
-    var rowStart = "<tr>";
-    var rowEnd = "</tr>";
-
+    // find out how many rows/cols there are
     var rows = 0;
     var cols = 0;
     for (var i = 0; i < data.length; i++) {
@@ -27,9 +23,8 @@
       }
     }
 
-    var output = tableStart + rowStart;
-    var currentRow = 0;
-    // Draw the first row (labels)
+    // draw the grid
+    // Draw the top row of labels 
     output += '<td>()</td>';
     for (var i = 0; i < cols; i++) {
       output += '<td>'+ (i + 1) +'</td>';
@@ -42,11 +37,12 @@
       if (newRow) {
         currentRow++;
         output += rowEnd + rowStart +"<td>"+ currentRow  +"</td>";
+        if (i == 0) {
+          output += '<td colspan="'+ cols +'">';
+        }
       }
-
-      var r = Math.round((255 * data[i].percent) / 100);
-      var g = Math.round(255 * (100 - data[i].percent) / 100);
-      styles = "color: rgb("+ r +", "+ g +", 0);";
+       
+      styles = "color: rgb("+ Math.round((data[i].percent / 100) * 255)  +", 0, 0);";
       output += '<td style="'+ styles +'">' + data[i].count + "</td>";
     }
 
